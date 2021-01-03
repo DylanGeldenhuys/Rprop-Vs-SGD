@@ -1,3 +1,5 @@
+In this assignment the task was to compare Rprop and SGD using 3 classification and 3 regression tasks of varying complexity. 
+
 instructions
 
 Please note that all the datasets are imported from sklearn.
